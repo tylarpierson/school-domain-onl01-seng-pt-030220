@@ -17,6 +17,7 @@ class School
   end 
   def sort 
     new_hash = {}
-    new_hash.
+    rooster.each do |grade, name|
+      
   end 
 end 

@@ -19,5 +19,7 @@ class School
     new_hash = {}
     rooster.each do |grade, name|
       new_hash[grade] = name.sort 
+    end 
+    name 
   end 
 end 

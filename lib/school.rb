@@ -16,6 +16,7 @@ class School
     end 
   end 
   def sort 
-    
+    new_hash = {}
+    new_hash.
   end 
 end 

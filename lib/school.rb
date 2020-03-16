@@ -9,6 +9,6 @@ class School
     roster[grade] << name 
   end 
   def grade(grade) 
-    
+    puts name 
   end 
 end 
